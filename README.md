@@ -5,10 +5,10 @@
 I am a student interested in Minecraft Modding and Java + Lua development.
 
 - ☀️ Learning and Developing Game Hacking in Java
-- ✍️ Learning the Lua and making insane roblox scripts
+- ✍️ Learning the Lua and making insane hypickle clients
   
 ## Currently Working On ⚡ -  
-  - Silly Client
+  - your mom lmao
 
  Contact me ig :point_right:
  <a href="https://discord.gg/">
