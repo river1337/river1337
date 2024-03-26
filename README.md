@@ -8,7 +8,7 @@ I am a student interested in Minecraft Modding and Java + Lua development.
 - ✍️ Learning the Lua and making insane hypickle clients
   
 ## Currently Working On ⚡ -  
-  - your mom lmao
+  - Bliss Client (omg)
 
  Contact me ig :point_right:
  <a href="https://discord.gg/">
