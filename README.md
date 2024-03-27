@@ -4,8 +4,8 @@
 ## Hey im River 👋
 I am a student interested in Minecraft Modding and Java + Lua development.
 
-- ☀️ Learning and Developing Game Hacking in Java
-- ✍️ Learning the Lua and making insane hypickle clients
+- ☀️ developing cleints in java
+- ✍️ i mak insane hypickle clients
   
 ## Currently Working On ⚡ -  
   - Bliss Client (omg)
