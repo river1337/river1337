@@ -8,11 +8,9 @@ I am a student interested in Minecraft Modding and Java + Lua development.
 - ✍️ i mak insane hypickle clients
   
 ## Currently Working On ⚡ -  
-  - yo mama (omg)
-
- Contact me ig :point_right:
- <a href="https://discord.gg/">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Discord_black.png" width="32" height="32"/>
+  - morphine
+  - drugsssss
+  - flying high
 
 </h4>
 </div>
